@@ -43,3 +43,6 @@ vignettes/*.pdf
 
 # The api keys
 keys.json
+
+# Spotipy files
+.cache
