@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Jupyter
 .ipynb_checkpoints
+
+# The api keys
+keys.json
